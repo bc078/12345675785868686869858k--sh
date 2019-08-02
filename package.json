@@ -1,0 +1,6 @@
+"name": "Your Name",
+"description": "AnyThing",
+"version": "0.0.0",
+"main": "bot.js",
+"scripts": {
+"start": "node bot.js"
